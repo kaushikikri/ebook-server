@@ -296,6 +296,12 @@
       "password": "$2a$10$6Cow5xcX5Byc7P3X.BGT..u/Imt2Te3TtlWBu7HwoWss4f2m0qkr.",
       "name": "Kaushiki Kumari",
       "id": 3
+    },
+    {
+      "email": "Guest123@gmail.com",
+      "password": "$2a$10$OtnmP6oR8w47mCbpMYImruFrnFZz/I264ft7RJwUSWwqcV8y3LKrq",
+      "name": "Guest",
+      "id": 4
     }
   ]
 }
